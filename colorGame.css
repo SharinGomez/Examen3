@@ -1,0 +1,46 @@
+.square {
+    float: left;
+    width: 30%;
+    height: 0%;
+    padding-bottom: 30%;
+    background-color: aquamarine;
+    margin: 1%;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+body{
+    background-color:#232323;
+}
+h1{
+    color: white;
+}
+#message{
+    color: white;
+    margin: 10%;
+    float:inline;
+    text-align: center;
+    font-size: large;
+}
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+.selected{
+    background-color: rgb(100, 176, 195);
+}
+#reset{
+    float: left;
+}
+button{
+    border-radius: 1px;
+    background-color: rgb(250, 221, 231);
+    border-style: dotted;
+    border-color: rgb(160, 140, 242);
+    margin: 0 auto;
+    font-family: 'trebuchet MS';
+    font-size: large;
+    float: right;
+}
